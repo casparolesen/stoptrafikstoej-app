@@ -1,0 +1,14 @@
+.petition__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input__label {
+    display: block;
+}
+
+.input {
+    margin-bottom: 1rem;
+}

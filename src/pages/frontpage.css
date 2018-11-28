@@ -1,3 +1,27 @@
-.frontpage {
+body {
+    font-family: 'Roboto', sans-serif;   
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-transform: uppercase;
     text-align: center;
+}
+
+.jumbotron {
+    width: 90vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.jumbotron img {
+    height: 100vh;
+}
+
+.jumbotron a {
+    display: flex;
+    justify-content: center;
 }
